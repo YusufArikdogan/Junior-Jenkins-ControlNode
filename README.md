@@ -12,10 +12,7 @@ Follow these steps to clone the repository to your local machine and set it up.
 
 You need to have the following software installed to run the project:  
 
-- Terraform  
-- Jenkins  
-- Docker  
-- Ansible  
+- VSCode or any other code editor    
 
 ### Installation  
 

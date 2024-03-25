@@ -61,3 +61,4 @@ You need to have the following software installed to run the project:
 
 With these steps, you have configured Jenkins with the necessary credentials to access GitHub, Docker Hub, and SSH for Ansible.
 You can continue from my next GitHub repository...  
+https://github.com/YusufArikdogan/Junior-ManagedNodes-and-APP.git

@@ -18,7 +18,7 @@ You need to have the following software installed to run the project:
 
 1. Clone the repository to your local machine.  
 2. Update the values of `user` and `mykey` variables in the `variables.tf` file with your own values.  
-3. If desired, specify your zone in the 11th line of the `install-jenkins.tf` file for the server to be deployed in `us-east-1`.  
+3. If desired, specify your region in the 11th line of the `install-jenkins.tf` file for the server to be deployed in `us-east-1`.  
 4. Place your `key.pem` file in the same directory.  
 5. Open a terminal in the project directory and execute the following commands one by one:  
     ```  
